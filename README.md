@@ -1,2 +1,2 @@
 # minsoo-test2
-branch1
+master1
