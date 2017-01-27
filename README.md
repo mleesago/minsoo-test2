@@ -1,2 +1,2 @@
 # minsoo-test2
-master3
+master2
